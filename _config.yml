@@ -3,4 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 gem "github-pages", group: :jekyll_plugins
 title: [The title of your site]
-description: [A short description of your site's purpose]
+description: [# muhaddisaBatool.github.io
+I am Muhaddisa Batool, a Computer Science student at Fatima Jinnah Women University, Rawalpindi. I am currently in my 3rd semester with a strong interest in Artificial Intelligence and Machine Learning. I am passionate about building smart solutions and growing as a responsible, skilled, and ethical technology professional.
+# Muhaddisa Batool]
